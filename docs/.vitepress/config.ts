@@ -7,7 +7,7 @@ export default {
         sidebar: [
             {
                 text: "Sessions",
-                collapsed: false,
+                collapsed: true,
                 items: [
                     { text: "Current", link: "/sessions/getCurrent" },
                     { text: "Login", link: "/sessions/login" },
@@ -19,8 +19,17 @@ export default {
                 ]
             },
             {
+                text: "Images",
+                collapsed: true,
+                items: [
+                    { text: "Post Image", link: "/images/postImage" },
+                    { text: "Get Images", link: "/images/getImages" },
+                    { text: "Put Image", link: "/images/putImage" },
+                ]
+            },
+            {
                 text: "Utils",
-                collapsed: false,
+                collapsed: true,
                 items: [
                     { text: "Errores", link: "/utils/errors" },
                     { text: "Actividades", link: "/utils/activity" },
