@@ -28,6 +28,13 @@ export default {
                 ]
             },
             {
+                text: "Data",
+                collapsed: true,
+                items: [
+                    { text: "Get Data", link: "/data/getData" },
+                ]
+            },
+            {
                 text: "Utils",
                 collapsed: true,
                 items: [

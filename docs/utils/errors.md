@@ -31,3 +31,17 @@
 618: Error con el tipo de dato is (Modulo)<br/>
 619: Error con el tipo de dato passId<br/>
 620: Error con el tipo de dato password<br/>
+621: No tienes permiso para realizar esta función.<br/>
+
+## images
+800: type debe de ser avatar<br/>
+801: error al guardar imágen en el ms<br/>
+802: Falta el nombre del avatar<br/>
+803: Falta el tipo de dato type<br/>
+804: No se obtuvo las imágenes del ms<br/>
+805: Error al guardar la imagen en base de datos<br/>
+806: Error al obtener la imagen de base de datos<br/>
+807: Error al actualizar la imagen en base de datos<br/>
+
+## data
+900: Error al traer los datos del dashboard.
